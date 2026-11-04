@@ -1,0 +1,6 @@
+{
+  "name": "회의록 할 일 추출기",
+  "description": "회의록에서 할 일, 담당자, 기한, 근거 문장을 추출하고 필터링 및 CSV로 내보내는 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
